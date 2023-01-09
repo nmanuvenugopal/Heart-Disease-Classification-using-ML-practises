@@ -22,3 +22,17 @@ Attribute Information:
 * target:0 for no presence of heart disease, 1 for presence of heart disease
 
 Original Source: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+
+The Machine learning algorithm used in this case include:
+* Logistic regression model
+* GridSearchCV model for finding the best parameter and fine tuning.
+* LogisticRegressionCV model.
+
+Carried out various EDA techniques which includes the finding the important features based on the coefficient values.
+
+Evaluated the perfomance of the model using various evaluation techniques for classification model:
+* Accuracy Score
+* Classification report (Recall, Precision, F1 Score)
+* Confusion matrix
+* Precision recall curve
+* ROC curve
