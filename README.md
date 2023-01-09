@@ -36,3 +36,6 @@ Evaluated the perfomance of the model using various evaluation techniques for cl
 * Confusion matrix
 * Precision recall curve
 * ROC curve
+
+
+Ref: Python for Machine Learning & Data Science Masterclass (Jose Portilla : Udemy Lectures)
